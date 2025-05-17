@@ -9,7 +9,7 @@ I’m a cybersecurity professional with 3 years of IT experience, a Security+ ce
 - 💼 Currently working as an IT Analyst while building cybersecurity & cloud experience
 - 🛡️ Security+ certified | CySA+ in progress | AWS Cloud Practitioner in progress
 - ⚙️ Building hands-on GitHub projects with tools like **Metasploit, Nmap, Nessus, Splunk, and Wireshark**
-- 🧠 Enrolled in the **Springboard Cybersecurity Bootcamp** with job guarantee
+- 🧠 Enrolled in the **Springboard Cybersecurity Bootcamp** 
 - 🏋🏽 Grinding 8+ hours on weekends to master labs, certs, and skills
 
 ### 🧰 Tech & Tools I Use
