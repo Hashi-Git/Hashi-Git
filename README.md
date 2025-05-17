@@ -5,7 +5,7 @@
 I’m a cybersecurity professional with 3 years of IT experience, a Security+ certification, and a deep commitment to building real-world skills in blue team defense, red team exploitation, and cloud security architecture.
 
 ### 💡 About Me
-- 🎯 On a mission to break into **Cloud Security** and build a six-figure legacy career
+-🎯 Focused on building deep technical expertise in cloud security
 - 💼 Currently working as an IT Analyst while building cybersecurity & cloud experience
 - 🛡️ Security+ certified | CySA+ in progress | AWS Cloud Practitioner in progress
 - ⚙️ Building hands-on GitHub projects with tools like **Metasploit, Nmap, Nessus, Splunk, and Wireshark**
