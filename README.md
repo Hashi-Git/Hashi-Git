@@ -21,7 +21,7 @@ I’m a cybersecurity professional with 3 years of IT experience, a Security+ ce
 - 📁 Logging, Threat Detection & Documentation (Full Attack Lifecycle)
 
 ### 📈 What I’m Focused On
-- Getting my **first cybersecurity job** in a blue team / SOC / analyst role  
+💻 Passionate about blue team defense, threat detection, and real-world security labs. Currently applying my IT background toward building a future in cybersecurity.
 - Then pivoting into **Cloud Security Engineering**  
 - Long-term: Build wealth, invest in assets, and help my community
 
