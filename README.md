@@ -29,7 +29,7 @@ I’m a cybersecurity professional with 3 years of IT experience, a Security+ ce
 - 🔐 System Hardening & Malware Removal on Windows Server  
 - 📁 Logging, Threat Detection & Documentation (Full Attack Lifecycle)  
 - 🧱 **Linux Exploitation & Hardening Lab** – Scanned and exploited a vulnerable Linux system via anonymous FTP, cracked password hashes with John the Ripper, identified duplicate root accounts, and hardened the system by removing insecure services, disabling root login, securing Samba, and applying updates.  
-  → [View Project]](https://github.com/Hashi-Git/Hashi-Git/edit/main/README.md)
+  → [View Project]](https://github.com/Hashi-Git/linux-exploitation-hardening-lab))
 
 ### 📈 What I’m Focused On  
 💻 Passionate about blue team defense, threat detection, and real-world security labs. Currently applying my IT background toward building a future in cybersecurity.  
