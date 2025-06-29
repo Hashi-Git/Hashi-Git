@@ -28,12 +28,8 @@ Building toward advanced roles in IAM and cloud security engineering
 LinkedIn
 My Cyber Projects → GitHub Repos
 “Relentless learning and execution are the keys to building a secure future.”
-- Long-term: Build wealth, invest in assets, and help my community
 
 ### 🔗 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/hashihashi/)  
 - 🧠 My Cyber Projects → [GitHub Repos](https://github.com/Hashi-Git/Hashi-Git/edit/main/README.md)
-
----
-
-**"Hard work, execution, and purpose will get me everything I never had."**
+  
