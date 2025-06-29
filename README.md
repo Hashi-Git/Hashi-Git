@@ -1,39 +1,59 @@
-# 👋🏽 Hey, I’m Hashi
+👋🏽 Hey, I’m Hashi
+🚀 IT Analyst | Cybersecurity | Identity & Access Management (IAM) | Cloud Security | Hands-On Labs
 
-## 🚀 Cybersecurity | Cloud Security | Hands-On Labs | GitHub Projects
+I’m a cybersecurity and IT professional with 3 years of enterprise experience, Security+ certified, and proven hands-on skills in identity and access management, user lifecycle operations, and cloud security.
 
-I’m a cybersecurity professional with 3 years of IT experience, a Security+ certification, and a deep commitment to building real-world skills in blue team defense, red team exploitation, and cloud security architecture.
+💡 About Me
 
-### 💡 About Me
--🎯 Focused on building deep technical expertise in cloud security  
-- 💼 Currently working as an IT Analyst while building cybersecurity & cloud experience  
-- 🛡️ Security+ certified | CySA+ in progress | AWS Cloud Practitioner in progress  
-- ⚙️ Building hands-on GitHub projects with tools like **Metasploit, Nmap, Nessus, Splunk, and Wireshark**  
-- 🧠 Enrolled in the **Springboard Cybersecurity Bootcamp**  
-- 🏋🏽 Grinding 8+ hours on weekends to master labs, certs, and skills
+🎯 Focused on building advanced expertise in IAM, security operations, and cloud platforms.
 
-### 🧰 Tech & Tools I Use
-- 🔹 **Attack & Exploitation:** Kali Linux, Metasploit, John the Ripper, Hydra  
-- 🔹 **Scanning & Enumeration:** Nmap, SMBClient, Netcat, Nikto  
-- 🔹 **Monitoring & Detection:** Splunk, Wireshark, Windows Event Viewer  
-- 🔹 **Vulnerability Assessment:** Nessus Essentials, OpenVAS  
-- 🔹 **System Hardening:** Linux (Ubuntu), Windows Server, Samba configuration, password policies  
-- 🔹 **Networking & Protocols:** FTP, Telnet, SSH, SMB, HTTP/S  
-- 🔹 **Cloud & DevOps (learning):** AWS (IAM, EC2, S3), AWS CLI, Terraform (beginner)  
-- 🔹 **Virtualization & Labs:** VirtualBox, VMware Workstation, TryHackMe, Springboard Labs  
-- 🔹 **Command Line & Scripting:** Bash, Linux CLI, basic PowerShell
+💼 As an IT Analyst, I actively manage user accounts, provision and deprovision access, enforce security policies, and oversee permissions using Active Directory and Office 365. My daily responsibilities include onboarding/offboarding users, mailbox administration, group memberships, and conducting access reviews—directly aligned with IAM analyst work.
 
+🛡️ Security+ certified | AWS Cloud Practitioner in progress | AZ-104 and Okta Certified Professional next
 
-### 📚 Current Projects
-- 🔴 Red Team to Blue Team Lab (Kali → Meterpreter → Patch & Secure)  
-- 🔐 System Hardening & Malware Removal on Windows Server  
-- 📁 Logging, Threat Detection & Documentation (Full Attack Lifecycle)  
-- 🧱 **Linux Exploitation & Hardening Lab** – Scanned and exploited a vulnerable Linux system via anonymous FTP, cracked password hashes with John the Ripper, identified duplicate root accounts, and hardened the system by removing insecure services, disabling root login, securing Samba, and applying updates.  
-  → [View Project]](https://github.com/Hashi-Git/linux-exploitation-hardening-lab))
+⚙️ Building hands-on IAM projects and cloud security labs, continuously expanding my technical skills.
 
-### 📈 What I’m Focused On  
-💻 Passionate about blue team defense, threat detection, and real-world security labs. Currently applying my IT background toward building a future in cybersecurity.  
-- Then pivoting into **Cloud Security Engineering**  
+🧰 Tech & Tools
+
+IAM & Access Control: Active Directory, Office 365, Azure AD/Entra ID, Okta (learning), group policy, user provisioning, access reviews, mailbox management
+
+Attack & Defense: Kali Linux, Metasploit, John the Ripper, Hydra
+
+Scanning & Enumeration: Nmap, SMBClient, Netcat, Nikto
+
+Monitoring & Detection: Splunk, Wireshark, Windows Event Viewer
+
+Vulnerability Assessment: Nessus, OpenVAS
+
+System Hardening: Linux (Ubuntu), Windows Server, password policies, Samba configuration
+
+Cloud & DevOps: AWS (IAM, EC2, S3), AWS CLI, Azure (AZ-104 path), Terraform (beginner)
+
+Virtualization & Labs: VirtualBox, VMware Workstation, TryHackMe, Springboard Labs
+
+Scripting: Bash, Linux CLI, basic PowerShell
+
+📚 Recent Projects
+
+🔐 System Hardening & Malware Removal on Windows Server
+
+🧱 Linux Exploitation & Hardening Lab (attack, remediate, document, and secure)
+
+🔑 IAM labs: Active Directory & O365 user lifecycle, onboarding/offboarding, permissions management, and access controls
+
+📈 Current Focus
+
+Mastering IAM and cloud security to deliver greater value to my team and organization
+
+Building toward advanced roles in IAM and cloud security engineering
+
+🔗 Connect With Me
+
+LinkedIn
+
+My Cyber Projects → GitHub Repos
+
+“Relentless learning and execution are the keys to building a secure future.”
 - Long-term: Build wealth, invest in assets, and help my community
 
 ### 🔗 Connect With Me
