@@ -1,64 +1,162 @@
-👋🏽 Hey, I’m Hashi
-🚀 IT Analyst | Cybersecurity | Identity & Access Management (IAM) | Cloud Security | Hands-On Labs
+# 👋 Hashi
+## Cybersecurity Analyst | Security Operations | Endpoint & Detection Engineering
 
-I’m a cybersecurity and IT professional with 3 years of enterprise experience, Security+ certified, and proven hands-on skills in identity and access management, user lifecycle operations, and cloud security.
+---
 
-💡 About Me
+## 🧭 Professional Summary
 
-🎯 Focused on building advanced expertise in IAM, security operations, and cloud platforms.
+Cybersecurity professional working within a managed enterprise environment performing endpoint security investigations, threat triage, and security risk analysis.
 
-💼 As an IT Analyst, I actively manage user accounts, provision and deprovision access, enforce security policies, and oversee permissions using Active Directory and Office 365. My daily responsibilities include onboarding/offboarding users, mailbox administration, group memberships, and conducting access reviews—directly aligned with IAM analyst work.
+Focused on developing strong expertise in **Security Operations, Detection Analysis, and Incident Investigation**, with a long-term specialization in **Cloud and Identity Security**.
 
-🛡️ Security+ certified | AWS Cloud Practitioner in progress | AZ-104 and Okta Certified Professional next
+My approach emphasizes real operational security experience — investigating alerts, understanding attacker behavior, and documenting defensive actions — rather than theory alone.
 
-⚙️ Building hands-on IAM projects and cloud security labs, continuously expanding my technical skills.
+This GitHub documents practical cybersecurity work, investigations, and continuous technical growth.
 
-🧰 Tech & Tools
+---
 
-IAM & Access Control: Active Directory, Office 365, Azure AD/Entra ID, Okta (learning), group policy, user provisioning, access reviews, mailbox management
+## 💼 Current Position
 
-Attack & Defense: Kali Linux, Metasploit, John the Ripper, Hydra
+**Cybersecurity Technician — Security Operations**  
+*Managed Service Provider (Enterprise & SMB Security Environment)*
 
-Scanning & Enumeration: Nmap, SMBClient, Netcat, Nikto
+### Responsibilities
+- Investigate endpoint detections using SentinelOne EDR
+- Analyze behavioral alerts, process execution chains, and endpoint telemetry
+- Perform security triage and remediation support
+- Conduct vendor security and risk assessments
+- Contribute to compliance-aligned security documentation
+- Support vulnerability remediation and secure system configuration
+- Assist identity and access security operations
 
-Monitoring & Detection: Splunk, Wireshark, Windows Event Viewer
+---
 
-Vulnerability Assessment: Nessus, OpenVAS
+## 🔬 Security Experience
 
-System Hardening: Linux (Ubuntu), Windows Server, password policies, Samba configuration
+### 🛡️ Endpoint Detection & Investigation
+- Investigate SentinelOne alerts using process tree analysis
+- Identify suspicious behaviors and execution anomalies
+- Validate detections and support remediation actions
+- Create investigation summaries aligned with SOC workflows
 
-Cloud & DevOps: AWS (IAM, EC2, S3), AWS CLI, Azure (AZ-104 path), Terraform (beginner)
+**Focus Areas**
+- Behavioral AI detections  
+- Process lineage analysis  
+- False positive validation  
+- Endpoint telemetry interpretation  
 
-Virtualization & Labs: VirtualBox, VMware Workstation, TryHackMe, Springboard Labs
+---
 
-Scripting: Bash, Linux CLI, basic PowerShell
+### 📋 Vendor Security & Risk Analysis
+Performed structured security assessment of the reMarkable digital ecosystem:
 
-📚 Recent Projects
+- Evaluated encryption in transit and at rest
+- Reviewed cloud synchronization risks
+- Identified enterprise control gaps
+- Produced operational security recommendations
 
-🔐 System Hardening & Malware Removal on Windows Server
+Deliverable included formal vendor risk documentation for internal review.
 
-🧱 Linux Exploitation & Hardening Lab (attack, remediate, document, and secure)
+---
 
-🔑 IAM labs: Active Directory & O365 user lifecycle, onboarding/offboarding, permissions management, and access controls
+### 🔧 System Security & Hardening
+- Remediation of vulnerable or legacy software
+- Endpoint security stabilization
+- Patch validation and risk reduction
+- Secure configuration support
 
-📈 Current Focus
+**Example Work**
+- Identification and remediation of outdated Java installations flagged during EDR scanning.
 
-Mastering IAM and cloud security to deliver greater value to my team and organization
+---
 
-Building toward advanced roles in IAM and cloud security engineering
+## 🎯 2026 Professional Objectives
 
-🔗 Connect With Me
+### Short Term (0–6 Months)
+- Master SentinelOne investigation workflows
+- Document 3–5 complete security investigations
+- Earn CompTIA CySA+
+- Strengthen incident analysis and reporting skills
+- Expand detection analysis capability
 
-LinkedIn
+### Mid Term (6–18 Months)
+- Transition into SOC Analyst / Security Analyst role
+- Develop SIEM investigation proficiency
+- Improve threat detection methodology
+- Expand incident response exposure
 
-My Cyber Projects → GitHub Repos
+### Long Term (2–3 Years)
+- Specialize in Cloud Security and Identity Protection
+- Work within AWS/Azure security architectures
+- Move toward Security Engineering responsibilities
 
-LinkedIn
-My Cyber Projects → GitHub Repos
+---
 
+## 📚 Certifications
 
-### 🔗 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/hashihashi/)  
-- 🧠 My Cyber Projects → [GitHub Repos](https://github.com/Hashi-Git/Hashi-Git/edit/main/README.md)
-  
-  
+- ✅ CompTIA Security+
+- 🎯 CompTIA CySA+ (In Progress)
+
+**Planned Certifications**
+- SC-200 — Security Operations Analyst
+- Cloud Security Certifications (AWS / Azure)
+
+---
+
+## 🧠 Core Skills
+
+### Security Operations
+- Endpoint Detection & Response (EDR)
+- Threat Investigation
+- Detection Analysis
+- Incident Triage
+- Security Documentation
+- Vendor Risk Assessment
+
+### Platforms
+- Windows Enterprise Environments
+- Active Directory
+- Identity & Access Fundamentals
+
+### Tools
+- SentinelOne
+- Remote Administration Platforms
+- Security Investigation Workflows
+
+---
+
+## 📈 Repository Purpose
+
+This repository serves as a **living record of operational cybersecurity growth**.
+
+Contents include:
+- Investigation write-ups
+- Detection analysis exercises
+- Security assessments
+- Defensive security labs
+- Documentation aligned with real-world environments
+
+**Goal:**  
+Demonstrate analyst-level thinking through documented security work.
+
+---
+
+## 🔎 Current Focus
+
+- Behavioral detection understanding
+- Process tree mastery
+- Investigation documentation
+- Threat analysis reasoning
+- Defensive security methodology
+
+---
+
+## 🤝 Professional Interests
+
+Security Operations • Threat Detection • Cloud Security • Identity Security • Defensive Engineering
+
+---
+
+## ⚡ Operating Principle
+
+Security expertise is built through investigation, repetition, and disciplined documentation.
