@@ -1,5 +1,5 @@
 # 👋 Hashi
-## Cybersecurity Analyst | Security Operations | Endpoint & Detection Engineering
+## Cybersecurity Technician | Security Operations | Endpoint & Detection Engineering
 
 ---
 
