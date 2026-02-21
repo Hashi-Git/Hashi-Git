@@ -1,94 +1,91 @@
 # 👋 Hashi
-## Cybersecurity Technician | Security Operations | Endpoint & Detection Engineering
+## Cybersecurity Professional | Security Operations | Endpoint Detection & Investigation
 
 ---
 
 ## 🧭 Professional Summary
 
-Cybersecurity professional operating within a managed enterprise environment performing endpoint security investigations, threat triage, and security risk analysis.
+Cybersecurity professional supporting security operations within a managed enterprise environment, focusing on endpoint detection, investigation support, vulnerability remediation, and operational risk reduction.
 
-Focused on developing deep expertise in **Security Operations, Detection Analysis, and Incident Investigation**, with a long-term specialization in **Cloud and Identity Security**.
+My work centers on understanding system behavior, analyzing security alerts, supporting remediation efforts, and strengthening defensive security practices across managed environments. I am actively developing deeper expertise in **security operations, threat detection, and incident investigation**, with long-term specialization goals in **cloud and identity security**.
 
-My approach prioritizes real operational security experience — investigating alerts, understanding attacker behavior, and documenting defensive actions — rather than theoretical knowledge alone.
-
-This GitHub documents practical cybersecurity work, investigations, and continuous technical growth.
+This GitHub documents practical cybersecurity experience, technical growth, and hands-on security work.
 
 ---
 
-## 💼 Current Position
+## 💼 Current Role
 
 **Cybersecurity Technician — Security Operations**  
 *Managed Service Provider (Enterprise & SMB Security Environment)*
 
-### Responsibilities
+### Key Responsibilities
 - Investigate endpoint detections using SentinelOne EDR
-- Analyze behavioral alerts, process execution chains, and endpoint telemetry
-- Perform security triage and remediation support
+- Analyze behavioral alerts and process execution activity
+- Support security triage and remediation workflows
+- Coordinate vulnerability remediation through patch management
 - Conduct vendor security and risk assessments
 - Contribute to compliance-aligned security documentation
-- Support vulnerability remediation and secure system configuration
-- Assist identity and access security operations
+- Support identity and access security operations
+- Assist secure endpoint configuration and system hardening
 
 ---
 
 ## 🔬 Security Experience
 
 ### 🛡️ Endpoint Detection & Investigation
-- Investigate SentinelOne alerts using process tree analysis
-- Identify suspicious behaviors and execution anomalies
-- Validate detections and support remediation actions
-- Create investigation summaries aligned with SOC workflows
+- Review SentinelOne alerts using process tree analysis
+- Identify abnormal or suspicious execution behavior
+- Validate detections and assist remediation actions
+- Document investigation findings aligned with security operations practices
 
 **Focus Areas**
 - Behavioral AI detections  
 - Process lineage analysis  
-- False positive validation  
 - Endpoint telemetry interpretation  
+- False positive validation  
 
 ---
 
-### 📋 Vendor Security & Risk Analysis
+### 🔧 Vulnerability Remediation & Patch Security
+- Support security patch deployment and compliance using ConnectWise
+- Assist remediation of vulnerable and legacy software
+- Validate patching outcomes to reduce exposure risk
+- Participate in ongoing attack surface reduction efforts
+
+**Example**
+- Identification and remediation of outdated Java installations discovered through endpoint security scanning.
+
+---
+
+### 📋 Vendor Security & Risk Assessment
 Performed structured security assessment of the reMarkable digital ecosystem:
 
-- Evaluated encryption in transit and at rest
+- Evaluated encryption protections (in transit and at rest)
 - Reviewed cloud synchronization risks
-- Identified enterprise control gaps
-- Produced operational security recommendations
-
-Deliverable included formal vendor risk documentation for internal review.
-
----
-
-### 🔧 System Security & Hardening
-- Remediation of vulnerable or legacy software
-- Endpoint security stabilization
-- Patch validation and risk reduction
-- Secure configuration support
-
-**Example Work**
-- Identification and remediation of outdated Java installations flagged during EDR scanning.
+- Identified enterprise control limitations
+- Produced documented security recommendations for internal review
 
 ---
 
 ## 🎯 2026 Professional Objectives
 
 ### Short Term (0–6 Months)
-- Master SentinelOne investigation workflows
+- Deepen SentinelOne investigation proficiency
 - Document 3–5 complete security investigations
 - Earn CompTIA CySA+
-- Strengthen incident analysis and reporting skills
+- Strengthen investigation documentation and analysis skills
 - Expand detection analysis capability
 
 ### Mid Term (6–18 Months)
-- Transition into SOC Analyst / Security Analyst role
-- Develop SIEM investigation proficiency
+- Transition into dedicated Security Operations / SOC responsibilities
+- Develop SIEM investigation experience
 - Improve threat detection methodology
-- Expand incident response exposure
+- Gain broader incident response exposure
 
 ### Long Term (2–3 Years)
 - Specialize in Cloud Security and Identity Protection
-- Work within AWS/Azure security architectures
-- Move toward Security Engineering responsibilities
+- Work within AWS/Azure security environments
+- Progress toward Security Engineering responsibilities
 
 ---
 
@@ -104,48 +101,75 @@ Deliverable included formal vendor risk documentation for internal review.
 
 ---
 
+## 🎓 Professional Training
+
+**Springboard Cybersecurity Career Track**
+
+Structured hands-on cybersecurity training program emphasizing applied defensive security skills and real-world security scenarios.
+
+**Key Areas**
+- Security operations fundamentals
+- Threat detection and analysis
+- Vulnerability assessment
+- Incident response concepts
+- Linux and Windows security
+- Offensive and defensive lab environments (Kali Linux, Metasploit)
+
+---
+
 ## 🧠 Core Skills
 
 ### Security Operations
 - Endpoint Detection & Response (EDR)
-- Threat Investigation
+- Threat Investigation Support
 - Detection Analysis
-- Incident Triage
+- Incident Triage Support
 - Security Documentation
 - Vendor Risk Assessment
 
-### Platforms
-- Windows Enterprise Environments
+### Endpoint & Identity Platforms
+- Microsoft Intune
 - Active Directory
-- Identity & Access Fundamentals
+- Endpoint configuration and compliance
 
-### Tools
-- SentinelOne
-- Remote Administration Platforms
-- Security Investigation Workflows
+### Vulnerability & Security Management
+- ConnectWise (security patching and remediation coordination)
+- Galactic Scan (vulnerability identification and validation)
+- Patch compliance and risk reduction
+
+---
+
+## 🛠️ Tools & Technologies
+
+- SentinelOne EDR  
+- Microsoft Intune  
+- ConnectWise  
+- Galactic Scan  
+- Active Directory  
+- Remote administration platforms  
 
 ---
 
 ## 📈 Repository Purpose
 
-This repository serves as a **living record of operational cybersecurity growth**.
+This repository serves as a **living record of cybersecurity growth and operational experience**.
 
-Contents include:
-- Investigation write-ups
+Included content:
+- Security investigation write-ups
 - Detection analysis exercises
-- Security assessments
+- Vendor security assessments
 - Defensive security labs
 - Documentation aligned with real-world environments
 
 **Goal:**  
-Demonstrate analyst-level thinking through documented security work.
+Demonstrate practical security thinking through documented work and continuous improvement.
 
 ---
 
 ## 🔎 Current Focus
 
 - Behavioral detection understanding
-- Process tree mastery
+- Process tree analysis mastery
 - Investigation documentation
 - Threat analysis reasoning
 - Defensive security methodology
