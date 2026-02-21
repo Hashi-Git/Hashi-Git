@@ -1,15 +1,15 @@
 # 👋 Hashi
-## Cybersecurity Technician | Security Operations | Endpoint & Detection Engineering
+## Cybersecurity Analyst | Security Operations | Endpoint & Detection Engineering
 
 ---
 
 ## 🧭 Professional Summary
 
-Cybersecurity professional working within a managed enterprise environment performing endpoint security investigations, threat triage, and security risk analysis.
+Cybersecurity professional operating within a managed enterprise environment performing endpoint security investigations, threat triage, and security risk analysis.
 
-Focused on developing strong expertise in **Security Operations, Detection Analysis, and Incident Investigation**, with a long-term specialization in **Cloud and Identity Security**.
+Focused on developing deep expertise in **Security Operations, Detection Analysis, and Incident Investigation**, with a long-term specialization in **Cloud and Identity Security**.
 
-My approach emphasizes real operational security experience — investigating alerts, understanding attacker behavior, and documenting defensive actions — rather than theory alone.
+My approach prioritizes real operational security experience — investigating alerts, understanding attacker behavior, and documenting defensive actions — rather than theoretical knowledge alone.
 
 This GitHub documents practical cybersecurity work, investigations, and continuous technical growth.
 
@@ -95,11 +95,12 @@ Deliverable included formal vendor risk documentation for internal review.
 ## 📚 Certifications
 
 - ✅ CompTIA Security+
+- ✅ AWS Certified Cloud Practitioner
 - 🎯 CompTIA CySA+ (In Progress)
 
 **Planned Certifications**
 - SC-200 — Security Operations Analyst
-- Cloud Security Certifications (AWS / Azure)
+- Advanced Cloud Security Certifications (AWS / Azure)
 
 ---
 
