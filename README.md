@@ -10,7 +10,7 @@ Cybersecurity Technician working within an MSP environment, specializing in **Id
 
 My experience includes managing user identities, enforcing secure access controls, supporting MFA and authentication policies, and maintaining endpoint protection across multiple client environments using **Azure (Entra ID), Microsoft 365 (M365), Intune, and Active Directory**.
 
-I work with tools such as **SentinelOne, ConnectWise, and Mycroft** to monitor, investigate, and respond to security events, while supporting vulnerability remediation and system hardening.
+I work with tools such as **SentinelOne, ConnectWise to monitor, investigate, and respond to security events, while supporting vulnerability remediation and system hardening.
 
 This GitHub reflects hands-on experience in IAM, endpoint security, and cloud environments, with a focus on building real-world security skills.
 
